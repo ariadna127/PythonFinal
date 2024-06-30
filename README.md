@@ -1,4 +1,4 @@
-# Python Final Project
+# Proyecto Final Python
 
 Este repositorio contiene un proyecto básico en Python creado siguiendo una serie de pasos desde la configuración inicial hasta el primer commit y la conexión con un repositorio remoto.
 
